@@ -19,7 +19,7 @@ Spring Boot backend with authentication, authorization and data ownership model.
 - Dockerized application
 - Database migrations (Flyway)
 
-👉 Main Project: [[Social Netword Backend](https://github.com/wilddog1266/social_netword_backend)]
+👉 Main Project: [[Social Network Backend](https://github.com/wilddog1266/social_network_backend)]
 
 ---
 
