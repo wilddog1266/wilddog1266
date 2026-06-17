@@ -19,20 +19,7 @@ Spring Boot backend with authentication, authorization and data ownership model.
 - Dockerized application
 - Database migrations (Flyway)
 
-👉 Main Project: [[Social Network Backend](https://github.com/wilddog1266/social_network_backend)]
-
----
-
-### Multithreaded Search Engine
-Concurrent indexing engine for website search.
-
-👉 https://github.com/wilddog1266/Search_engine
-
----
-
-### Secure Task Management API
-
-👉 https://github.com/wilddog1266/task-tracker-backend
+👉 Main Project: [[LeadFix CRM](https://github.com/wilddog1266/leadfix_crm)]
 
 Currently improving backend architecture, distributed systems and production-ready services.
 <!--
