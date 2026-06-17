@@ -22,6 +22,8 @@ Spring Boot backend with authentication, authorization and data ownership model.
 👉 Main Project: [[LeadFix CRM](https://github.com/wilddog1266/leadfix_crm)]
 
 Currently improving backend architecture, distributed systems and production-ready services.
+
+✉️ Telegram: [[@ObsiDevCases](https://t.me/ObsiDevCases)]
 <!--
 **wilddog1266/wilddog1266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
